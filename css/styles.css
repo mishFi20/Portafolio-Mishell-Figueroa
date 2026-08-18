@@ -897,7 +897,6 @@ img {
 
 .footer-bg {
   background-color: var(--first-color-second);
-  padding: 2rem 0 3rem;
 }
 
 .footer-container {
@@ -1078,7 +1077,7 @@ img {
   .project-container {
     grid-template-columns: repeat(2, 1fr);
   }
-  .about-container-imgAlt,
+
   .portfolio-content-imgAlt,
   .project-container-imgAlt {
     width: 225px;
@@ -1195,6 +1194,7 @@ img {
   .about-container-imgAlt {
     width: 250px;
     height: 350px;
+    margin-top: 30px;
   }
   .about-container-data-description {
     text-align: initial;
